@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Jídelníček</title>
+</head>
+
+<body>
+<header>
+    <h1>Jídelníček</h1>
+</header>
+<div class="container">
+    <div class="circle">
+        <img src="images/main.jpg" alt="food">
+    </div>
+
+    <div class="description">
+        <p>
+            Jídelníček je webová stránka s množstvím skvělých receptů pro každého.
+            Najdete zde různé kategorie receptů, které se snadno vyhledávají a třídí pomocí textového pole.
+            S našimi podrobnými návody a obrázky bude vaření ještě snazší a zábavnější. Navíc můžete své
+            oblíbené recepty sthnout na počítač pro snadný přístup k nim později. Připojte se k nám a
+            nechte se inspirovat novými nápady na vaše jídla!
+        </p>
+    </div>
+    <div class="search-box">
+        <input type="text" id="search-input" placeholder="e.g. guláš">
+        <select id="select-box" name="type">
+            <option value="all">all</option>
+            <option value="snídaně">snídaně</option>
+            <option value="oběd">oběd</option>
+            <option value="večeře">večeře</option>
+            <option value="svačina">svačina</option>
+        </select>
+        <button id="search-button">Search</button>
+    </div>
+</div>
+<div class="recipe-detail-container" id="recipe-detail-container"></div>
+<div class="recipe-card-container" id="recipe-card-container"></div>
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.2.61/jspdf.debug.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="index.js"></script>
+
+</html>

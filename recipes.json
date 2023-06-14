@@ -1,0 +1,306 @@
+{
+  "recipes": [
+
+
+    {
+      "name": "Svíčková na smetaně",
+      "description": "Tradiční české jídlo s hovězím masem a krémovou omáčkou.",
+      "type": "večeře",
+      "image": "./images/svickova.jpg",
+      "ingredients": [
+        {"name": "hovězí maso", "count": "500g"},
+        {"name": "mrkev", "count": "2 ks"},
+        {"name": "petržel", "count": "1 ks"},
+        {"name": "cibule", "count": "1 ks"},
+        {"name": "česnek", "count": "3 stroužky"},
+        {"name": "hořčice", "count": "1 lžička"},
+        {"name": "sůl", "count": "dle chuti"},
+        {"name": "pepř", "count": "dle chuti"},
+        {"name": "masox", "count": "1 kus"},
+        {"name": "smetana", "count": "200 ml"},
+        {"name": "olej", "count": "2 lžíce"},
+        {"name": "mouka", "count": "2 lžíce"},
+        {"name": "voda", "count": "500 ml"}
+      ],
+      "steps": [
+        "Maso nakrájíme na plátky a osolíme.",
+        "Cibuli nakrájíme na kostičky a zpěníme na oleji.",
+        "Přidáme maso a opékáme z obou stran.",
+        "Přidáme na kostičky nakrájenou mrkev, petržel a česnek.",
+        "Přidáme vodu a masox a vaříme do měkka.",
+        "Maso vyjmeme a necháme odpočinout. Zbylé zeleninu rozmixujeme na jemnou kaši.",
+        "Do vývaru vmícháme smetanu a zeleninovou kaši a krátce povaříme.",
+        "Přidáme hořčici a pepř a podle potřeby dosolíme.",
+        "Maso nakrájíme na plátky a podáváme s omáčkou a knedlíkem."
+      ]
+    },
+
+
+    {
+      "name": "Tiramisu",
+      "description": "Italský dezert s mascarpone sýrem a kávovými piškoty.",
+      "type": "svačina",
+      "image": "./images/tiramisu.jpg",
+      "ingredients": [
+        {"name": "mascarpone sýr", "count": "500g"},
+        {"name": "vajíčka", "count": "4 ks"},
+        {"name": "krupicový cukr", "count": "120g"},
+        {"name": "káva", "count": "1 šálek"},
+        {"name": "likér amaretto", "count": "2 lžíce"},
+        {"name": "kakao", "count": "2 lžíce"},
+        {"name": "piškoty", "count": "24 ks"},
+        {"name": "mléko", "count": "1 šálek"}
+      ],
+      "steps": [
+        "Oddělíme bílky od žloutků.",
+        "Žloutky umícháme s cukrem do pěny.",
+        "Přidáme mascarpone sýr a mícháme do hladka.",
+        "Bílky vyšleháme do tuha a opatrně vmícháme do směsi.",
+        "Kávu smícháme s likérem amaretto.",
+        "Piškoty namáčíme v kávě s likérem a pokládáme do formy na tiramisu.",
+        "Piškoty potřeme nánosy směsi z mascarpone sýru a žloutků.",
+        "Vrch posypeme kakao a necháme v lednici odpočinout minimálně 4 hodiny.",
+        "Před podáním posypeme kakao a zalijeme trochou mléka."
+      ]
+    },
+
+
+    {
+      "name": "Český guláš",
+      "description": "Klasický český guláš s hovězím masem.",
+      "type": "večeře",
+      "image": "./images/gulas.jpg",
+      "ingredients": [
+        {"name": "hovězí maso", "count": "1 kg"},
+        {"name": "cibule", "count": "2 ks"},
+        {"name": "paprika", "count": "2 ks"},
+        {"name": "rajčata", "count": "3 ks"},
+        {"name": "mouka", "count": "2 lžíce"},
+        {"name": "paprika mletá", "count": "2 lžičky"},
+        {"name": "kari koření", "count": "1 lžička"},
+        {"name": "majoránka", "count": "1 lžička"},
+        {"name": "sůl", "count": "dle chuti"},
+        {"name": "olej", "count": "2 lžíce"},
+        {"name": "česnek", "count": "2 stroužky"},
+        {"name": "voda", "count": "2 l"},
+        {"name": "knedlík", "count": "1 ks na osobu"}
+      ],
+      "steps": [
+        "Maso nakrájíme na menší kousky a osolíme.",
+        "Cibuli nakrájíme na drobné kousky a orestujeme na oleji dozlatova.",
+        "Přidáme na kostky nakrájenou papriku a orestujeme.",
+        "Přidáme maso a orestujeme z každé strany.",
+        "Přidáme na drobné kousky nakrájený česnek, mletou papriku, kari koření a majoránku.",
+        "Přidáme lžíci mouky a promícháme.",
+        "Přidáme nakrájená rajčata a zalijeme vodou.",
+        "Necháme vařit na mírném ohni, dokud se maso nerozpadne, obvykle trvá 2-3 hodiny.",
+        "Podáváme s knedlíkem."
+      ]
+    },
+
+
+    {
+      "name": "Smažený sýr",
+      "description": "Smažený sýr s hlávkou.",
+      "type": "svačina",
+      "image": "./images/smazeny-syr.jpg",
+      "ingredients": [
+        {"name": "sýr", "count": "4 plátky"},
+        {"name": "hladká mouka", "count": "2 lžíce"},
+        {"name": "vejce", "count": "2 ks"},
+        {"name": "strouhanka", "count": "2 lžíce"},
+        {"name": "sůl", "count": "dle chuti"},
+        {"name": "olej", "count": "na smažení"}
+      ],
+      "steps": [
+        "Plátky sýra osolíme podle chuti.",
+        "Do jedné misky nalijeme vejce a rozšleháme je vidličkou.",
+        "Do druhé misky si připravíme mouku smíchanou se strouhankou.",
+        "Sýr obalíme nejdříve v mouce se strouhankou, poté ve vejci a opět v mouce se strouhankou.",
+        "Na pánvičce rozpálíme olej.",
+        "Obalené sýry vložíme na pánev a smažíme z obou stran do zlatova.",
+        "Hotové sýry vyjmeme na talíř obložený papírovými ubrousky, aby se zbavily přebytečného oleje.",
+        "Podáváme s hranolkami nebo bramborovým salátem."
+      ]
+    },
+
+    {
+      "name": "Rajský guláš s fazolemi",
+        "description": "Rajský guláš s fazolemi.",
+        "type": "oběd",
+      "image": "./images/rajsky-gulas.jpg",
+      "ingredients": [
+        {"name": "vepřové maso", "count": "500 g"},
+        {"name": "cibule", "count": "1 ks"},
+        {"name": "červená paprika", "count": "1 ks"},
+        {"name": "rajčata", "count": "400 g"},
+        {"name": "fazole", "count": "400 g"},
+        {"name": "česnek", "count": "2 stroužky"},
+        {"name": "rajčatový protlak", "count": "1 lžíce"},
+        {"name": "paprika", "count": "1 lžička"},
+        {"name": "sůl", "count": "dle chuti"},
+        {"name": "olej", "count": "na smažení"}
+      ],
+      "steps": [
+        "Vepřové maso nakrájíme na menší kousky.",
+        "Cibuli a červenou papriku nakrájíme na drobnější kousky.",
+        "Na oleji orestujeme maso, dokud zezlátne.",
+        "Přidáme cibuli a papriku a restujeme do měkka.",
+        "Přidáme rajčata, fazole, rajčatový protlak, papriku a česnek.",
+        "Dochutíme solí a povaříme do měkka, asi 20 minut.",
+        "Podáváme s rýží nebo chlebem."
+      ]
+    },
+
+
+    {
+      "name": "Bramborové knedlíky s kyselým zelím",
+        "description": "Bramborové knedlíky s kyselým zelím.",
+        "type": "oběd",
+      "image": "./images/bramborove-knedliky.jpg",
+      "ingredients": [
+        {"name": "brambory", "count": "500 g"},
+        {"name": "hladká mouka", "count": "200 g"},
+        {"name": "vejce", "count": "2 ks"},
+        {"name": "sůl", "count": "1 lžička"},
+        {"name": "kyselé zelí", "count": "500 g"},
+        {"name": "cukr", "count": "2 lžíce"},
+        {"name": "kmín", "count": "1 lžička"},
+        {"name": "olej", "count": "1 lžíce"}
+      ],
+      "steps": [
+        "Brambory uvaříme, oloupeme a nastrouháme.",
+        "Přidáme mouku, vejce a sůl a hněteme těsto.",
+        "Těsto necháme 10 minut odpočinout.",
+        "V hrnci s osolenou vodou uvaříme knedlíky z těsta.",
+        "Kyselé zelí osolíme a necháme 10 minut odstát.",
+        "Zelí osušíme a podusíme na oleji spolu s cukrem a kmínem.",
+        "Podáváme s nakrájenými bramborovými knedlíky."
+      ]
+    },
+
+    {
+      "name": "Kuřecí řízky s bramborovou kaší",
+        "description": "Kuřecí řízky s bramborovou kaší.",
+        "type": "snídaně",
+      "image": "./images/kureci-rizek.jpg",
+      "ingredients": [
+        {"name": "kuřecí prsa", "count": "4 ks"},
+        {"name": "sůl", "count": "1 lžička"},
+        {"name": "pepř", "count": "1/2 lžičky"},
+        {"name": "hladká mouka", "count": "150 g"},
+        {"name": "vejce", "count": "2 ks"},
+        {"name": "strouhanka", "count": "200 g"},
+        {"name": "olej", "count": "4 lžíce"},
+        {"name": "brambory", "count": "1 kg"},
+        {"name": "mléko", "count": "200 ml"},
+        {"name": "máslo", "count": "50 g"},
+        {"name": "sůl", "count": "1/2 lžičky"}
+      ],
+      "steps": [
+        "Kuřecí prsa nakrájíme na plátky a osolíme a opepříme.",
+        "Každý plátek nejprve obalíme v mouce, poté v rozšlehaném vejci a nakonec v trhané strouhance.",
+        "Plátky osmažíme na oleji dozlatova.",
+        "Brambory oloupeme a nakrájíme na menší kousky.",
+        "Vaříme je v osolené vodě, dokud nezměknou.",
+        "Vodu slijeme a brambory rozmixujeme do hladké kaše.",
+        "Přidáme mléko, máslo a sůl a promícháme.",
+        "Podáváme s kuřecími řízky."
+      ]
+    },
+
+
+    {
+      "name": "Čokoládový dort s malinami",
+      "description": "Čokoládový dort s malinami.",
+      "type": "svačina",
+      "image": "./images/cokoladovy-dort.jpg",
+      "ingredients": [
+        {"name": "hladká mouka", "count": "300 g"},
+        {"name": "kakaový prášek", "count": "60 g"},
+        {"name": "prášek do pečiva", "count": "1 sáček"},
+        {"name": "sůl", "count": "1/2 lžičky"},
+        {"name": "cukr", "count": "300 g"},
+        {"name": "vanilkový cukr", "count": "1 sáček"},
+        {"name": "vajíčka", "count": "4 ks"},
+        {"name": "olej", "count": "180 ml"},
+        {"name": "mléko", "count": "180 ml"},
+        {"name": "maliny", "count": "200 g"},
+        {"name": "čokoláda na vaření", "count": "200 g"},
+        {"name": "šlehačka", "count": "200 ml"}
+      ],
+      "steps": [
+        "Smícháme suché ingredience - mouku, kakaový prášek, prášek do pečiva, sůl, cukr a vanilkový cukr.",
+        "Přidáme vejce, olej a mléko a promícháme dohladka.",
+        "Směs nalijeme do dortové formy a pečeme v předehřáté troubě na 180 °C po dobu 30-35 minut.",
+        "Dort necháme vychladnout a pak ho rozkrájíme na dvě vrstvy.",
+        "Maliny rozmačkáme vidličkou a rozetřeme je na spodní vrstvu dortu.",
+        "Čokoládu rozpustíme nad vodní lázní a poté ji nalijeme na maliny.",
+        "Navrch položíme druhou vrstvu dortu.",
+        "Šlehačku ušleháme do tuha a poté ji naneseme na dort.",
+        "Dort můžeme ozdobit malinami a čokoládou podle chuti."
+      ]
+    },
+
+
+    {
+      "name": "Kuřecí salát s avokádem",
+      "description": "Kuřecí salát s avokádem.",
+      "type": "oběd",
+      "image": "./images/kureci-salat.jpg",
+      "ingredients": [
+        {"name": "kuřecí prsa", "count": "2 ks"},
+        {"name": "avokádo", "count": "2 ks"},
+        {"name": "rajčata", "count": "2 ks"},
+        {"name": "okurka", "count": "1 ks"},
+        {"name": "cibule", "count": "1 ks"},
+        {"name": "petrželka", "count": "1 svazek"},
+        {"name": "olivový olej", "count": "2 lžíce"},
+        {"name": "balsamico ocet", "count": "2 lžíce"},
+        {"name": "sůl", "count": "1/2 lžičky"},
+        {"name": "čerstvě mletý pepř", "count": "1/4 lžičky"}
+      ],
+      "steps": [
+        "Kuřecí prsa omyjeme, osušíme a nakrájíme na menší kousky.",
+        "Omyjeme a nakrájíme rajčata, okurku, cibuli a petrželku.",
+        "Avokáda oloupeme a nakrájíme na menší kousky.",
+        "V misce smícháme olivový olej, balsamico ocet, sůl a pepř a přidáme nakrájené kuřecí prsa.",
+        "Dobře promícháme, aby se kuřecí maso dostalo do marinády.",
+        "Na pánvi orestujeme kuřecí maso dozlatova a necháme ho vychladnout.",
+        "V míse smícháme rajčata, okurku, cibuli a petrželku a přidáme avokádo.",
+        "Přidáme orestované kuřecí maso a vše důkladně promícháme.",
+        "Salát můžeme podávat okamžitě nebo nechat vychladit v lednici a podávat později."
+      ]
+    },
+
+
+    {
+      "name": "Italská bruschetta",
+      "description": "Italská bruschetta.",
+      "type": "snídaně",
+      "image": "./images/italska-bruschetta.jpg",
+      "ingredients": [
+        {"name": "rajčata", "count": "3 ks"},
+        {"name": "česnek", "count": "2 stroužky"},
+        {"name": "bazalka", "count": "1 svazek"},
+        {"name": "olivový olej", "count": "2 lžíce"},
+        {"name": "bageta", "count": "1 ks"},
+        {"name": "sůl", "count": "1/4 lžičky"},
+        {"name": "čerstvě mletý pepř", "count": "1/4 lžičky"}
+      ],
+      "steps": [
+        "Omyjeme rajčata, oloupeme je a nakrájíme na menší kousky.",
+        "Omyjeme bazalku a nasekáme ji na jemno.",
+        "Česnek oloupeme a nakrájíme na tenké plátky.",
+        "V misce smícháme nakrájená rajčata, bazalku, olivový olej, sůl a pepř a dobře promícháme.",
+        "Bagetu nakrájíme na plátky a opečeme je na grilu nebo v troubě.",
+        "Ještě teplé bagetové plátky potíráme česnekem.",
+        "Na každý plátek bagety naneseme směs z rajčat a bazalky.",
+        "Hotovou bruschettu můžeme podávat okamžitě nebo nechat vychladit v lednici a podávat později."
+      ]
+    }
+
+
+
+  ]
+}
